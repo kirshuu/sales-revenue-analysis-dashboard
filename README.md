@@ -2,47 +2,50 @@
 
 ## Overview
 
-This project is an interactive Power BI dashboard developed to analyze sales and revenue performance.
+This project is an interactive Power BI dashboard developed to analyze sales, revenue, and profit performance.
 
-## Features
+## Dashboard Preview
 
-- KPI Cards
-  - Total Sales
-  - Total Profit
-  - Total Orders
-  - Average Order Value
+> Add a screenshot named `dashboard.png` to display below.
 
-- Quarterly Sales Trend
-- Sales by Region
-- Top Selling Products
-- Sales by Category
+![Dashboard](dashboard.png)
 
-## Tools Used
+## Key Features
+
+- 📈 Quarterly Sales Trend
+- 💰 Total Sales, Profit, Orders & Average Order Value KPI Cards
+- 🌍 Sales by Region
+- 🛒 Top Selling Products
+- 🥧 Sales by Category
+- 📊 Interactive business insights
+
+## Tools & Technologies
 
 - Power BI
 - Microsoft Excel
 - DAX
-
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
-
-## Dataset
-
-- Sales
-- Profit
-- Region
-- Category
-- Product
-- Order Date
+- Data Visualization
 
 ## Business Insights
 
-- Analyzed ₹52.95M sales data
-- Compared regional sales performance
-- Identified top-selling products
-- Evaluated category-wise contribution
+- Analyzed **₹41.79M** in sales.
+- Compared sales performance across **4 regions**.
+- Identified top-selling products.
+- Analyzed category-wise sales contribution.
+- Designed an interactive dashboard for business reporting.
+
+## Repository Structure
+
+```
+sales-revenue-analysis-dashboard/
+│── SalesDashboard.pbix
+│── SalesData.xlsx
+│── dashboard.png
+└── README.md
+```
 
 ## Author
 
-Shubham Mallick
+**Shubham Mallick**
+
+GitHub: https://github.com/kirshuu
